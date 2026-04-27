@@ -1,0 +1,53 @@
+candidate:
+  full_name: "Samee Rizwan"
+  email: "YOUR_EMAIL@example.com" # Please update
+  phone: "YOUR_PHONE_NUMBER" # Please update
+  location: "Dubai, UAE"
+  linkedin: "linkedin.com/in/samee-rizwan-4b7099178"
+  portfolio_url: "https://github.com/Sameerizwan" # Placeholder, please update
+  github: "github.com/Sameerizwan"
+  twitter: "" # Please update if you have one
+
+target_roles:
+  primary:
+    - "Java Backend Engineer"
+    - "AI Engineer"
+  archetypes:
+    - name: "Java Backend Engineer"
+      level: "Mid-Senior"
+      fit: "primary"
+    - name: "AI/ML Engineer"
+      level: "Senior"
+      fit: "secondary"
+
+narrative:
+  headline: "Java/Spring Boot Engineer with 4.5+ years of experience architecting scalable microservices, enterprise banking platforms, and AI-powered automation systems."
+  exit_story: "Please write a concise exit story that makes you unique." # Please update
+  superpowers:
+    - "Microservices Architecture"
+    - "Cloud-Native Development"
+    - "AI/LLM Integration"
+  proof_points: # Please update with your best projects/achievements from CV with measurable impact
+    - name: "Customer Onboarding Microservices Platform (Bank Misr)"
+      url: "" # Link to project/details if available
+      hero_metric: "Served ~500K+ customers"
+    - name: "KYC Module for AML/Regulatory Compliance"
+      url: ""
+      hero_metric: "Implemented identity verification and document-processing workflows"
+    - name: "Optimized Redis caching and PostgreSQL/Oracle DB"
+      url: ""
+      hero_metric: "Achieved ~35% reduction in average API response latency"
+
+compensation:
+  target_range: "$150K-200K"     # Your target total comp
+  currency: "USD"
+  minimum: "$120K"               # Walk-away number
+  location_flexibility: "Remote preferred, 1 week/month on-site possible"
+
+location:
+  country: "United States"
+  city: "San Francisco"
+  timezone: "PST"
+  visa_status: "No sponsorship needed"
+  # For remote roles outside your country:
+  # onsite_availability: "1 week/month in any city"
