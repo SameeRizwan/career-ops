@@ -1,7 +1,7 @@
 candidate:
   full_name: "Samee Rizwan"
-  email: "YOUR_EMAIL@example.com" # Please update
-  phone: "YOUR_PHONE_NUMBER" # Please update
+  email: "sameerizwan3@gmail.com"
+  phone: "+923400635821, +971 508874084"
   location: "Dubai, UAE"
   linkedin: "linkedin.com/in/samee-rizwan-4b7099178"
   portfolio_url: "https://github.com/Sameerizwan" # Placeholder, please update
@@ -41,7 +41,7 @@ narrative:
 compensation:
   target_range: "$150K-200K"     # Your target total comp
   currency: "USD"
-  minimum: "$120K"               # Walk-away number
+  minimum: "$40K"
   location_flexibility: "Remote preferred, 1 week/month on-site possible"
 
 location:
